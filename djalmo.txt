@@ -1,0 +1,21 @@
+* Índices Secundários
+* Pesquisas em Tabelas
+* Relatórios
+* Pictures
+* Relações 1 para N
+* Campos Calculados
+* Máscaras
+* Gráficos
+* Janela Sobre
+* Delphi e SQL
+* Help on-line
+
+__ · Coerência com os Conceitos da Engenharia de Software (1,0)
+	· Objetivos e Princípios
+	· Modularidade
+	· Engenharia de Requisitos
+	· Dicionário de Dados (Padronização)
+	· Documentação
+__ · Aplicação dos Recursos da Linguagem (5,0)
+__ · Domínio do Código (3,0)
+__ · Coerência com o Projeto Lógico /Design / Originalidade/ Criatividade (1,0)
