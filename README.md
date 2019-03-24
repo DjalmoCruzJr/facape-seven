@@ -5,7 +5,7 @@
 <h3>Tecnologias/Ferramentas Utilizadas</h3>
 
 <ul>
-  <li->Delphi 7</li>
+  <li>Delphi 7</li>
   <li>DBF</li>
   <li>DBExpress</li>
 </ul>
